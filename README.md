@@ -4,7 +4,7 @@ This is a website of live Covid-19 update. I have developed it using HTML, CSS, 
 ### Deployment
 | Environment | Link |
 |-------------|------|
-| Netlify Hosting | [Netlify Preview](hhttps://amazing-crostata-9b88dd.netlify.app/) |
+| Netlify Hosting | [Netlify Preview](https://amazing-crostata-9b88dd.netlify.app/) |
 
 ### Technology Stack
 #### Languages:
@@ -25,4 +25,4 @@ This is a website of live Covid-19 update. I have developed it using HTML, CSS, 
 
 
 ### Website Preview:
-<img src="./assets/img/Techo-Agency.png" alt="Techo Agency">
+<img src="./public/Covid-19-React-App .png" alt="Covid-19-React-App">
