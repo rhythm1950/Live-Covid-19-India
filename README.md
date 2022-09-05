@@ -25,4 +25,4 @@ This is a website of live Covid-19 update. I have developed it using HTML, CSS, 
 
 
 ### Website Preview:
-<img src="./public/Covid-19-React-App .png" alt="Covid-19-React-App">
+<img src="./public/Covid-19-React-App.png" alt="Covid-19-React-App">
